@@ -16,16 +16,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Python, C/C++, Java, SQL, HTML, CSS
+- Python, C/C++, Java, SQL, HTML, CSS, Javascript
 
 ### 📚 Libraries & Frameworks
-- NumPy, Pandas, Scikit-learn, OpenCV, PyTorch, TensorFlow
+- NumPy, Pandas, Seaborn, MatplotLib, Scikit-learn, OpenCV, PyTorch, TensorFlow, Keras
 
 ### 🗄️ Databases
 - MySQL, PostgreSQL, MongoDB, DynamoDB
 
 ### 🔧 Tools
-- Git, GitHub, VS Code, PyCharm, Google Colab, PowerBI, Tableau
+- Git, GitHub, VS Code, PyCharm, Google Colab, PowerBI, Tableau, AWS
 
 ---
 
