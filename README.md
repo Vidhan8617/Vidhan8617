@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vidhan Ayachit</h1>
 <h3 align="center">A passionate AI/ML student from India</h3>
 
+- 🔭 I’m currently working on **AI-powered applications and machine learning models for real-world problem solving**
+
 - 🌱 I’m currently learning **I am currently learning advanced AI/ML techniques, real-time systems, and scalable application development to build industry-ready solutions.**
+
+- 👯 I’m looking to collaborate on **Optimizing deep learning models and deploying scalable AI systems**
 
 - 📫 How to reach me **vidhan01286@gmail.com**
 
