@@ -46,6 +46,7 @@
 
 - 📧 Email: vidhan01286@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/vidhan-ayachit-117464256/
+- Resume : https://drive.google.com/file/d/15kk_2O5uxoI1H7YSOPyj_ORgZiIcw7HH/view
 
 ---
 
